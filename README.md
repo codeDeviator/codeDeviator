@@ -1,4 +1,6 @@
 <img src="/assests//react.js-img.png" alt="" style="width:100%;"/>
+![images (1)](https://github.com/user-attachments/assets/9274b1f0-4b0f-47a4-a73d-b065a48a56eb)
+
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

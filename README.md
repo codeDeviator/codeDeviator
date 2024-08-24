@@ -1,4 +1,4 @@
-![logo](https://github.com/codeDeviator/codeDeviator/blob/main/Github%20Banner.png)
+<img src="/assests//react.js-img.png" alt="" style="width:100%;"/>
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

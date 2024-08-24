@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fexcited-share-my-second-linkedin-post-coding-community-disha-gupta&psig=AOvVaw336b5msMt89R7bPqgpC1wf&ust=1714305002707000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIi34-6p4oUDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedeviator&label=Profile%20views&color=0e75b6&style=flat" alt="codedeviator" /> </p>
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0ce83b7f-3910-4530-a440-a522f698979a" alt="" style="width:100%;"/>
+<img src="https://github.com/user-attachments/assets/f56af112-3954-417c-911c-5cbba3fbbc14" alt="" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
